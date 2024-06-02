@@ -1,3 +1,9 @@
+---
+title: 'This is my New Article'
+date: '2023-04-18'
+tags: ['next.js','nextjs','new']
+---
+
 # Технологии информационных технологий (IT)
 
 ## Облачные вычисления
