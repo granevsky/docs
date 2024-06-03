@@ -1,7 +1,7 @@
 ---
-title: 'This is my New Article'
-date: '2023-04-18'
-tags: ['next.js','nextjs','new']
+title: 'Информация'
+date: '2024-05-29'
+tags: ['next.js','nextjs','static', docs]
 ---
 
 # Технологии информационных технологий (IT)
