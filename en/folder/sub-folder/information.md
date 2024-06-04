@@ -1,7 +1,9 @@
 ---
-title: 'information'
-date: '2024-06-02'
-tags: ['next.js','nextjs','static', 'docs', 'staticdocs']
+title: 'Information'
+published: '2024-05-29'
+description: 'Sub-folder content'
+tags: ['next.js','nextjs','static', docs]
+nesting: '0-0-1'
 ---
 # Information Technology (IT) Technologies
 
