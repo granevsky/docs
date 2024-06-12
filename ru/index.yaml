@@ -1,0 +1,6 @@
+title: Документация
+links:
+  - title: Страница "О"
+    href: about.md
+  - title: Страница "Облако"
+    href: cloud/

@@ -1,0 +1,11 @@
+title: Документация
+navigation:
+  logo:
+    url: 'https://www.ps.kz/images/big_logo_og.jpg'
+  header:
+    leftItems:
+      - text: 'Relative Link'
+        type: 'link'
+        url: './ru/about.html'
+    rightItems:
+      - type: controls
