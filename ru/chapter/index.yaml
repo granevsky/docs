@@ -1,9 +1,9 @@
-title: cloud
-description: Cloud description
+title: Chapter
+description: Chapter description
 links:
-  - title: instructions
-    description: instructions description
-    href: instructions/
-  - title: quickstart
-    description: quickstart description
-    href: quickstart/
+  - title: Sub-chapter
+    description: Sub-chapter description
+    href: sub-chapter/
+  - title: Toyota
+    description: Toyota description
+    href: toyota/

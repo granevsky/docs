@@ -1,13 +1,13 @@
-title: cloud
+title: Chapter
 href: index.yaml
 items:
-  - name: instructions
-    link: cloud/instructions
+  - name: Sub-chapter
+    link: chapter/sub-chapter
     include:
-      path: instructions/toc.yaml
+      path: sub-chapter/toc.yaml
       mode: link
-  - name: Быстрый старт
-    link: cloud/quickstart
+  - name: Toyota
+    link: chapter/toyota
     include:
-      path: quickstart/toc.yaml
+      path: toyota/toc.yaml
       mode: link

@@ -1,7 +1,7 @@
-title: quickstart
-description: quickstart description
+title: Sub-chapter
+description: Test chapter
 articles: true
 links:
-  - title: Сompute
-    description: Описание сompute
-    href: compute.md
+  - title: Article
+    description: Описание для article
+    href: article.md
