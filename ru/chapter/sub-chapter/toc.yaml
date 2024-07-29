@@ -1,5 +1,5 @@
-title: quickstart
+title: Sub-chapter
 href: index.yaml
 items: 
-  - name: compute 
-    href: compute.md
+  - name: article
+    href: article.md
