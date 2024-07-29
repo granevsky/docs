@@ -1,7 +1,0 @@
-title: Облако
-href: index.yaml
-items: 
-  - name: Быстрый старт 
-    include:
-      path: quickstart/toc.yaml
-      mode: link

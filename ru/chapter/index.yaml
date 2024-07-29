@@ -1,0 +1,9 @@
+title: cloud
+description: Cloud description
+links:
+  - title: instructions
+    description: instructions description
+    href: instructions/
+  - title: quickstart
+    description: quickstart description
+    href: quickstart/

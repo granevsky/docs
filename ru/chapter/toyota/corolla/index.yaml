@@ -1,0 +1,7 @@
+title: Королла
+description: Toyota Corolla общая информация
+articles: true
+links:
+  - title: Инфо
+    description: Toyota Corolla 2013
+    href: info.md

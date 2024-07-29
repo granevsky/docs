@@ -1,0 +1,13 @@
+title: cloud
+href: index.yaml
+items:
+  - name: instructions
+    link: cloud/instructions
+    include:
+      path: instructions/toc.yaml
+      mode: link
+  - name: Быстрый старт
+    link: cloud/quickstart
+    include:
+      path: quickstart/toc.yaml
+      mode: link

@@ -1,0 +1,12 @@
+title: Sub-chapter
+description: Test chapter about cars
+links:
+  - title: Camry
+    description: Старая добрая классика
+    href: camry/
+  - title: Королла
+    description: Toyota Corolla общая информация
+    href: corolla/
+  - title: Prius
+    description: Описание Приус
+    href: prius/

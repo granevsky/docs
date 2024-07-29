@@ -1,0 +1,7 @@
+title: Prius
+description: Описание Приус
+articles: true
+links:
+  - title: Prius
+    description: Кратко, но по делу
+    href: prius.md

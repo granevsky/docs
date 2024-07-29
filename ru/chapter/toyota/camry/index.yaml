@@ -1,0 +1,10 @@
+title: Camry
+description: Старая добрая классика
+articles: true
+links:
+  - title: 40
+    description: Сороковой кузов
+    href: 40.md
+  - title: 60
+    description: Шестидесятый кузов
+    href: 60.md

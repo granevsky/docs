@@ -1,0 +1,11 @@
+title: Резервное копирование
+href: index.yaml
+items: 
+  - name: Создание
+    href: backup-create.md
+  - name: Удаление
+    href: backup-delete.md
+  - name: Восстановление
+    href: backup-restore.md
+  - name: Расписание
+    href: backup-schedule.md

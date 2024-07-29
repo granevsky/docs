@@ -1,6 +1,6 @@
-title: Документация
+title: Тестовая информация
+description: Какой-то текст для имитации контента на странице раздела.
 links:
-  - title: Страница "О"
-    href: about.md
-  - title: Страница "Облако"
-    href: cloud/
+  - title: Chapter
+    href: chapter/
+    description: Рыба для тестирования

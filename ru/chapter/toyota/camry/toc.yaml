@@ -1,0 +1,7 @@
+title: Camry
+href: index.yaml
+items: 
+  - name: 40
+    href: 40.md
+  - name: 60
+    href: 60.md
