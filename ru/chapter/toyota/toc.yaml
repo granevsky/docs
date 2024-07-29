@@ -1,18 +1,18 @@
-title: Sub-chapter
+title: Toyota
 href: index.yaml
 items: 
   - name: Camry
-    link: chapter/sub-chapter/camry
+    link: chapter/toyota/camry
     include:
       path: camry/toc.yaml
       mode: link
   - name: Королла
-    link: chapter/sub-chapter/corolla
+    link: chapter/toyota/corolla
     include:
       path: corolla/toc.yaml
       mode: link
   - name: Prius
-    link: chapter/sub-chapter/prius
+    link: chapter/toyota/prius
     include:
       path: prius/toc.yaml
       mode: link
